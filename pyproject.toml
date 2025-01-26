@@ -1,0 +1,17 @@
+[tool.coverage.report]
+fail_under = 10
+#exclude_lines = ["if __name__ == .__main__.:"]
+#exclude_also = ["def get_abs_path", "async def clear_sheets", "def execute_clearing_sheets"]
+
+[tool.coverage.run]
+source = ["src"]
+omit = ["src/cli/*","__init__.py", "src/random_scripts.py", "src/helper_features/excel_features.py", "src/helper_features/pydantic_functions.py"]
+
+
+[tool.coverage.html]
+directory = "coverage_html_report"
+
+[tool.pylint]
+ignore = ["cli_countdown.py"]
+
+ignore_errors = true

@@ -1,0 +1,1 @@
+#run pytest coverage with the following command: python -m pytest --cov src --cov-report=html:coverage_html_report

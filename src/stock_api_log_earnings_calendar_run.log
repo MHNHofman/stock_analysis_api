@@ -1,0 +1,95 @@
+INFO - 2025-01-26 21:56:21,470 - Starting a stock analysis run based on the earnings calender with: 17 number of shares
+INFO - 2025-01-26 21:56:22,160 - Stock DHT will be analyzed
+INFO - 2025-01-26 21:56:22,161 - This is number 1 in the total list of stocks
+WARNING - 2025-01-26 21:56:22,185 - DataFrame in this stock is empty for key_metrics
+WARNING - 2025-01-26 21:56:22,186 - Not all dataframes contain data for: DHT - therefore no analysis possible
+WARNING - 2025-01-26 21:56:22,188 - DataFrame in this stock is empty for key_metrics
+WARNING - 2025-01-26 21:56:22,188 - Not all dataframes contain data for: DHT - therefore no analysis possible
+WARNING - 2025-01-26 21:56:22,190 - DataFrame in this stock is empty for key_metrics
+WARNING - 2025-01-26 21:56:22,190 - Not all dataframes contain data for: DHT - therefore no analysis possible
+INFO - 2025-01-26 21:56:22,644 - Stock NOTV will be analyzed
+INFO - 2025-01-26 21:56:22,644 - This is number 2 in the total list of stocks
+INFO - 2025-01-26 21:56:22,668 - Stock NOTV DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:22,676 - Stock NOTV DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:22,732 - Stock NOTV DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:23,021 - Stock KLBN3.SA will be analyzed
+INFO - 2025-01-26 21:56:23,021 - This is number 3 in the total list of stocks
+INFO - 2025-01-26 21:56:23,042 - Stock KLBN3.SA DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:23,046 - Stock KLBN3.SA DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:23,050 - Stock KLBN3.SA DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:23,424 - Stock SWK will be analyzed
+INFO - 2025-01-26 21:56:23,424 - This is number 4 in the total list of stocks
+INFO - 2025-01-26 21:56:23,450 - Stock SWK DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:23,456 - Stock SWK DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:23,462 - Stock SWK DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:23,817 - Stock MANAPPURAM.NS will be analyzed
+INFO - 2025-01-26 21:56:23,817 - This is number 5 in the total list of stocks
+INFO - 2025-01-26 21:56:23,833 - Stock MANAPPURAM.NS DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:23,838 - Stock MANAPPURAM.NS DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:23,843 - Stock MANAPPURAM.NS DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:24,015 - Stock HUSQF will be analyzed
+INFO - 2025-01-26 21:56:24,015 - This is number 6 in the total list of stocks
+INFO - 2025-01-26 21:56:24,029 - Stock HUSQF DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:24,032 - Stock HUSQF DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:24,035 - Stock HUSQF DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:24,392 - Stock NYT will be analyzed
+INFO - 2025-01-26 21:56:24,392 - This is number 7 in the total list of stocks
+INFO - 2025-01-26 21:56:24,420 - Stock NYT DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:24,425 - Stock NYT DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:24,429 - Stock NYT DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:24,670 - Stock TOSCF will be analyzed
+INFO - 2025-01-26 21:56:24,670 - This is number 8 in the total list of stocks
+INFO - 2025-01-26 21:56:24,686 - Stock TOSCF DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:24,689 - Stock TOSCF DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:24,692 - Stock TOSCF DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:24,924 - Stock PNDZF will be analyzed
+INFO - 2025-01-26 21:56:24,924 - This is number 9 in the total list of stocks
+INFO - 2025-01-26 21:56:24,937 - Stock PNDZF DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:24,941 - Stock PNDZF DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:24,945 - Stock PNDZF DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:25,427 - Stock ASGN will be analyzed
+INFO - 2025-01-26 21:56:25,427 - This is number 10 in the total list of stocks
+INFO - 2025-01-26 21:56:25,445 - Stock ASGN DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:25,449 - Stock ASGN DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:25,453 - Stock ASGN DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:25,798 - Stock BG will be analyzed
+INFO - 2025-01-26 21:56:25,799 - This is number 11 in the total list of stocks
+INFO - 2025-01-26 21:56:25,818 - Stock BG DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:25,823 - Stock BG DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:25,827 - Stock BG DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:26,122 - Stock FORM will be analyzed
+INFO - 2025-01-26 21:56:26,122 - This is number 12 in the total list of stocks
+INFO - 2025-01-26 21:56:26,142 - Stock FORM DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:26,147 - Stock FORM DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:26,151 - Stock FORM DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:26,469 - Stock ADW-A.TO will be analyzed
+INFO - 2025-01-26 21:56:26,470 - This is number 13 in the total list of stocks
+INFO - 2025-01-26 21:56:26,492 - Stock ADW-A.TO DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:26,498 - Stock ADW-A.TO DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:26,502 - Stock ADW-A.TO DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:26,712 - Stock ENGGF will be analyzed
+INFO - 2025-01-26 21:56:26,712 - This is number 14 in the total list of stocks
+INFO - 2025-01-26 21:56:26,728 - Stock ENGGF DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:26,732 - Stock ENGGF DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:26,735 - Stock ENGGF DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:26,913 - Stock ADDLF will be analyzed
+INFO - 2025-01-26 21:56:26,913 - This is number 15 in the total list of stocks
+INFO - 2025-01-26 21:56:26,928 - Stock ADDLF DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:26,931 - Stock ADDLF DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:26,934 - Stock ADDLF DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:27,121 - Stock NWS will be analyzed
+INFO - 2025-01-26 21:56:27,122 - This is number 16 in the total list of stocks
+INFO - 2025-01-26 21:56:27,140 - Stock NWS DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:27,144 - Stock NWS DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:27,148 - Stock NWS DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:56:27,407 - Stock SLAB will be analyzed
+INFO - 2025-01-26 21:56:27,407 - This is number 17 in the total list of stocks
+INFO - 2025-01-26 21:56:27,422 - Stock SLAB DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:56:27,426 - Stock SLAB DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:56:27,429 - Stock SLAB DOES NOT MEET the criteria for screener type magic_formula
+WARNING - 2025-01-26 21:56:27,563 - Total number of requests: 153
+INFO - 2025-01-26 21:56:27,564 - Finished stock analysis run
+INFO - 2025-01-26 21:56:27,564 - Duration of the earnings_calendar run: 27.25 seconds
+INFO - 2025-01-26 21:56:27,565 - That is equivalent to 0.45 minutes
+INFO - 2025-01-26 21:56:27,566 - Duration of the stock api run: 6.09 seconds
+INFO - 2025-01-26 21:56:27,566 - The stock api run is equivalent to 0.1 minutes

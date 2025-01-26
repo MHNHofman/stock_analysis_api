@@ -1,0 +1,62 @@
+INFO - 2025-01-26 21:22:50,522 - Start with stock analysis run
+INFO - 2025-01-26 21:22:50,532 - Running a full analysis for all stocks available
+INFO - 2025-01-26 21:22:54,125 - Number of symbols in trade list: 10044
+INFO - 2025-01-26 21:22:54,126 - Max number of 10 symbols included in analysis
+INFO - 2025-01-26 21:22:54,825 - Stock ALLLN.PA will be analyzed
+INFO - 2025-01-26 21:22:54,825 - This is number 1 in the total list of stocks
+WARNING - 2025-01-26 21:22:54,845 - DataFrame in this stock is empty for key_metrics
+WARNING - 2025-01-26 21:22:54,845 - Not all dataframes contain data for: ALLLN.PA - therefore no analysis possible
+WARNING - 2025-01-26 21:22:54,847 - DataFrame in this stock is empty for key_metrics
+WARNING - 2025-01-26 21:22:54,847 - Not all dataframes contain data for: ALLLN.PA - therefore no analysis possible
+WARNING - 2025-01-26 21:22:54,849 - DataFrame in this stock is empty for key_metrics
+WARNING - 2025-01-26 21:22:54,849 - Not all dataframes contain data for: ALLLN.PA - therefore no analysis possible
+INFO - 2025-01-26 21:22:55,317 - Stock GS will be analyzed
+INFO - 2025-01-26 21:22:55,318 - This is number 2 in the total list of stocks
+INFO - 2025-01-26 21:22:55,351 - Stock GS DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:22:55,356 - Stock GS DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:22:55,360 - Stock GS DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:22:56,036 - Stock SXT will be analyzed
+INFO - 2025-01-26 21:22:56,037 - This is number 3 in the total list of stocks
+INFO - 2025-01-26 21:22:56,059 - Stock SXT DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:22:56,064 - Stock SXT DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:22:56,068 - Stock SXT DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:22:56,448 - Stock CRTM.L will be analyzed
+INFO - 2025-01-26 21:22:56,448 - This is number 4 in the total list of stocks
+INFO - 2025-01-26 21:22:56,474 - Stock CRTM.L DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:22:56,481 - Stock CRTM.L DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:22:56,486 - Stock CRTM.L DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:22:57,361 - Stock GRF will be analyzed
+INFO - 2025-01-26 21:22:57,362 - This is number 5 in the total list of stocks
+INFO - 2025-01-26 21:22:57,397 - Stock GRF DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:22:57,402 - Stock GRF DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:22:57,406 - Stock GRF DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:22:58,028 - Stock APTO will be analyzed
+INFO - 2025-01-26 21:22:58,028 - This is number 6 in the total list of stocks
+INFO - 2025-01-26 21:22:58,059 - Stock APTO DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:22:58,065 - Stock APTO DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:22:58,069 - Stock APTO DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:22:58,267 - Stock NTRBW will be analyzed
+INFO - 2025-01-26 21:22:58,267 - This is number 7 in the total list of stocks
+INFO - 2025-01-26 21:22:58,285 - Stock NTRBW DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:22:58,290 - Stock NTRBW DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:22:58,294 - Stock NTRBW DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:22:58,548 - Stock RENE will be analyzed
+INFO - 2025-01-26 21:22:58,548 - This is number 8 in the total list of stocks
+INFO - 2025-01-26 21:22:58,566 - Stock RENE DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:22:58,570 - Stock RENE DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:22:58,574 - Stock RENE DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:22:58,858 - Stock GOVXW will be analyzed
+INFO - 2025-01-26 21:22:58,859 - This is number 9 in the total list of stocks
+INFO - 2025-01-26 21:22:58,879 - Stock GOVXW DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:22:58,883 - Stock GOVXW DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:22:58,886 - Stock GOVXW DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:22:59,214 - Stock KNDI will be analyzed
+INFO - 2025-01-26 21:22:59,214 - This is number 10 in the total list of stocks
+INFO - 2025-01-26 21:22:59,233 - Stock KNDI DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:22:59,237 - Stock KNDI DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:22:59,240 - Stock KNDI DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2025-01-26 21:23:00,230 - Stock CRSP will be analyzed
+INFO - 2025-01-26 21:23:00,230 - This is number 11 in the total list of stocks
+INFO - 2025-01-26 21:23:00,247 - Stock CRSP DOES NOT MEET the criteria for screener type undervalued
+INFO - 2025-01-26 21:23:00,250 - Stock CRSP DOES NOT MEET the criteria for screener type growth
+INFO - 2025-01-26 21:23:00,254 - Stock CRSP DOES NOT MEET the criteria for screener type magic_formula

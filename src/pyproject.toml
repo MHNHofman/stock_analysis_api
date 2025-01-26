@@ -1,0 +1,9 @@
+[tool.coverage.report]
+fail_under = 10
+exclude_lines = ["if __name__ == .__main__.:"]
+
+[tool.coverage.html]
+title = "Coverage report the Stock Analysis project"
+
+[tool.coverage.run]
+source = ["src"]

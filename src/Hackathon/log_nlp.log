@@ -1,0 +1,11 @@
+INFO - 2024-10-15 15:14:44,927 - Start with stock analysis run
+INFO - 2024-10-15 15:14:46,287 - Running the cli for test purposes or with the CLI. The analyzed symbols are: ['MSFT', 'Microsoft Corporation'] 
+INFO - 2024-10-15 15:14:47,130 - Stock MSFT will be analyzed
+WARNING - 2024-10-15 15:14:47,156 - DataFrame is empty for MSFT
+WARNING - 2024-10-15 15:14:47,156 - Not all dataframes contain data for: MSFT - therefore no analysis possible
+WARNING - 2024-10-15 15:14:47,156 - DataFrame is empty for MSFT
+WARNING - 2024-10-15 15:14:47,156 - Not all dataframes contain data for: MSFT - therefore no analysis possible
+WARNING - 2024-10-15 15:14:47,156 - Path not found
+WARNING - 2024-10-15 15:14:49,734 - Path not found
+INFO - 2024-10-15 15:14:52,721 - Stock MSFT MEETS the criteria for screener type growth
+INFO - 2024-10-15 15:14:53,949 - Stock MSFT MEETS the criteria for screener type undervalued

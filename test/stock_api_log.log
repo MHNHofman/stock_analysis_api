@@ -1,0 +1,8 @@
+INFO - 2024-08-13 10:51:17,708 - Start with stock analysis run
+INFO - 2024-08-13 10:51:37,028 - Stock BTBT DOES NOT MEET the criteria for screener type growth
+INFO - 2024-08-13 10:51:38,117 - Stock BTBT MEETS the criteria for screener type undervalued
+INFO - 2024-08-13 10:51:38,122 - Stock BTBT MEETS the criteria for screener type magic_formula
+INFO - 2024-08-13 10:51:38,585 - Stock NOTE DOES NOT MEET the criteria for screener type undervalued
+INFO - 2024-08-13 10:51:38,591 - Stock NOTE DOES NOT MEET the criteria for screener type growth
+INFO - 2024-08-13 10:51:38,594 - Stock NOTE DOES NOT MEET the criteria for screener type magic_formula
+INFO - 2024-08-13 10:51:44,071 - Finished stock analysis run
